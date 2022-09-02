@@ -1,0 +1,57 @@
+.container {
+	width: 100%;
+	margin: 0 auto;
+	padding: 5px;
+}
+
+#top-bar {
+	color: var(--bs-success: #198754);
+	padding: 10px;
+}
+
+.alpha { color: $purple; }
+
+html {
+	font-size: 1.5rem;
+}
+p {
+	padding: 5px;
+	margin: 10px;
+	
+}
+
+#beef, #sushi {
+	margin-top: 30px;
+}
+
+#button {
+	float: right;
+	margin-right:  0;
+	clear: right;
+}
+
+h1 {
+	font-size: 3em;
+}
+
+li {
+	text-align: center;
+	font-size: 1.2em;
+
+}
+
+.item {
+	background-color: #ACB3B9;
+	
+}
+
+.navbar-brand {
+	font-size:  2em;
+}
+
+
+
+@med(min-width: )
+
+
+
